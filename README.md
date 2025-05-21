@@ -1,6 +1,6 @@
 # SI2025_lab2_233283
 
-<<<<<<< HEAD
+
 1. Control Flow Graph
 ![CFG Дијаграм](cfg-diagram.png)
 
@@ -22,7 +22,4 @@
 
 
 
-=======
-![CFG Дијаграм](cfg-diagram.png)
 
->>>>>>> feddc97 (Finalized project structure with src/main/java and src/test/java folders)
