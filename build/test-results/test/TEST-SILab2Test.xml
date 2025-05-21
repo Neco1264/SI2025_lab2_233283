@@ -1,12 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="SILab2Test" tests="6" skipped="0" failures="0" errors="0" timestamp="2025-05-20T13:27:39.605Z" hostname="Nemanjas-MacBook-Air.local" time="0.011">
+<testsuite name="SILab2Test" tests="8" skipped="0" failures="0" errors="0" timestamp="2025-05-21T17:32:38.654Z" hostname="Nemanjas-MacBook-Air.local" time="0.011">
   <properties/>
-  <testcase name="testInvalidCardNumberLength()" classname="SILab2Test" time="0.007"/>
-  <testcase name="testCardWithNonDigitCharacter()" classname="SILab2Test" time="0.0"/>
+  <testcase name="testTriggerPenaltyRule()" classname="SILab2Test" time="0.006"/>
+  <testcase name="testInvalidCardNumberLength()" classname="SILab2Test" time="0.001"/>
+  <testcase name="testValidItemWithDiscount()" classname="SILab2Test" time="0.001"/>
   <testcase name="testInvalidItemName()" classname="SILab2Test" time="0.001"/>
-  <testcase name="testDiscountedItemAndPenalty()" classname="SILab2Test" time="0.001"/>
   <testcase name="testValidItemNoDiscount()" classname="SILab2Test" time="0.0"/>
-  <testcase name="testNullItemsList()" classname="SILab2Test" time="0.001"/>
+  <testcase name="testMultipleItems()" classname="SILab2Test" time="0.0"/>
+  <testcase name="testInvalidCardCharacters()" classname="SILab2Test" time="0.0"/>
+  <testcase name="testNullItemList()" classname="SILab2Test" time="0.0"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
